@@ -4,7 +4,7 @@ A tool help to preview the image.
 **Usage**
 
 ```
-add the `url as the parameter to the base URL
+add the `url` as the parameter to the base URL
 ```
 
 e.g.
